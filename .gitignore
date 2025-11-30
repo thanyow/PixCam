@@ -1,0 +1,10 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore the output folder (Keep your selfies private)
+output/
+
+# Ignore virtual environments
+venv/
+env/
