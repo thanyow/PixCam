@@ -17,7 +17,7 @@
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/thanyow/PixCam.git](https://github.com/thanyow/PixCam.git)
+    git clone https://github.com/thanyow/PixCam.git
     cd PixCam
     ```
 
